@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Porto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="flutter">Flutter</string>
+    <string name="android">Android</string>
+    <string name="experience">Experience</string>
+    <string name="ui_ux">UI/UX</string>
+    <string name="career">Software Engineering</string>
+    <string name="setting">Setting</string>
+    <string name="content_tentang">Halo Semua Nama saya Genta halilintar,Saya siswa SMK IDN Boarding School </string>
+    <string name="tentang">About</string>
+    <string name="genta_hallilintar">Genta Halilintar</string>
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+</resources>
